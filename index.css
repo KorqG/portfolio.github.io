@@ -74,9 +74,9 @@ body {
   display: flex;
   flex-direction: column;
   align-content: stretch;
-  justify-content: flex-end;
-  align-items: center;
+  justify-content: space-around;
   height: 80vh;
+  align-items: center;
 }
 
 .container {
